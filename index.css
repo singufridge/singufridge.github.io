@@ -1,7 +1,6 @@
 body {
     margin: 0;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 10%;
 
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: 0.1pt;
