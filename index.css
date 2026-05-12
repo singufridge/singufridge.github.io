@@ -4,6 +4,7 @@ body {
     padding-right: 10%;
 
     font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.1pt;
 
     background-color: rgb(207, 224, 183);
 }
