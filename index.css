@@ -6,8 +6,8 @@ body {
 
     letter-spacing: 0.1pt;
 
-    font-family: 'Courier New', Courier, monospace;
-    background-image: linear-gradient(to bottom, #f2ffe3, #c2e4b3);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom, #fcebf2, #e6ffdb);
 }
 
 h1 {
@@ -41,10 +41,15 @@ a {
 a:hover { color: #91042a; }
 
 .reading, .assignments {
-    background-color: #f2ffe3;
+    background-color: #ffffff91;
     border-radius: 20px;
+    box-shadow: 0 8px #d88888;
 
-    padding: 3%;
-    margin-top: 3%;
-    margin-bottom: 3%;
+    padding: 4%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+li {
+    margin-bottom: 15px;
 }
