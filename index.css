@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'Minecraft';
-    src: url(mac\'s\ Minecraft.ttf);
+    font-family: 'DS BIOS';
+    src: url(Nintendo-DS-BIOS.ttf);
 }
 
 body {
@@ -15,8 +15,9 @@ body {
     padding-bottom: 5%;
 
     letter-spacing: 0.1pt;
-    font-family: 'Minecraft';
+    font-family: 'DS BIOS';
     font-weight: 100;
+    font-size: 17pt;
 
     background-image: linear-gradient(to bottom, #fcebf2, #e6ffdb);
 }
@@ -65,9 +66,8 @@ a {
 a:hover { color: #91042a; }
 
 .reading, .assignments {
-    background-color: #ffffff55;
-    border-radius: 20px;
-    box-shadow: 0 6px #d88888;
+    background-color: #ffffff99;
+    box-shadow: 0 9px 0 -4px #d88888;
 
     padding: 4%;
     margin-top: 5%;
