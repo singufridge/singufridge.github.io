@@ -51,5 +51,9 @@ a:hover { color: #91042a; }
 }
 
 li {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+li li {
+    margin: 0;
 }
