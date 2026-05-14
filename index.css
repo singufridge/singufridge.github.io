@@ -10,6 +10,11 @@ body {
     background-image: linear-gradient(to bottom, #fcebf2, #e6ffdb);
 }
 
+.site-title {
+    width: fit-content;
+    margin: auto;
+}
+
 h1 {
     text-align: center;
     font-weight: 900;
@@ -41,9 +46,9 @@ a {
 a:hover { color: #91042a; }
 
 .reading, .assignments {
-    background-color: #ffffff91;
+    background-color: #ffffff55;
     border-radius: 20px;
-    box-shadow: 0 8px #d88888;
+    box-shadow: 0 6px #d88888;
 
     padding: 4%;
     margin-top: 8%;
