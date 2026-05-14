@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Lower Resolution';
-    src: url(LowerResolution.ttf);
+    font-family: 'Pixellari';
+    src: url(Pixellari.ttf);
 }
 
 @font-face {
@@ -15,6 +15,7 @@ body {
     padding-bottom: 5%;
 
     letter-spacing: 0.1pt;
+    line-height: 0.9;
     font-family: 'DS BIOS';
     font-weight: 100;
     font-size: 17pt;
@@ -33,8 +34,9 @@ h1 {
     text-shadow: 0 3px #d88888;
     font-size: 36pt;
 
-    font-family: 'Lower Resolution';
+    font-family: 'Pixellari';
     letter-spacing: 2px;
+    line-height: 0.9;
 }
 
 h1:hover {
@@ -48,8 +50,8 @@ h3 {
     font-weight: 100;
     font-size: 18pt;
 
-    font-family: 'Lower Resolution';
-    letter-spacing: 2px;
+    font-family: 'Pixellari';
+    letter-spacing: 0.1px;
 }
 
 h4 {
