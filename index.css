@@ -20,7 +20,7 @@ body {
     font-weight: 100;
     font-size: 17pt;
 
-    background-image: linear-gradient(to bottom, #fcebf2, #e6ffdb);
+    /* background-image: linear-gradient(to bottom, #fcebf2, #e6ffdb); */
 }
 
 .site-title {
