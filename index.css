@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Pixellari';
-    src: url(Pixellari.ttf);
+    src: url(fonts/Pixellari.ttf);
 }
 
 @font-face {
     font-family: 'DS BIOS';
-    src: url(Nintendo-DS-BIOS.ttf);
+    src: url(fonts/Nintendo-DS-BIOS.ttf);
 }
 
 body {
