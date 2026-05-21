@@ -15,10 +15,10 @@ const el = document.getElementById("keyCodes");
 const held = new Set();
 let combo = [];
 
-const next = () => { 
+function next() { 
     combo = Array.from({ length: 3 }, () => String.fromCharCode(97 + Math.floor(Math.random() * 26)), );
     
-    el.innerHTML = `Press: ${combo.join(" + ")}`; 
+    el.innerHTML = `Hold: ${combo.join(" + ")}`; 
 };
 
 window.onkeydown = (e) => { 
