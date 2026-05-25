@@ -28,7 +28,7 @@ body {
     margin: auto;
 }
 
-h1 {
+.moving-text {
     text-align: center;
     font-weight: 100;
     text-shadow: 0 3px #d88888;
@@ -39,9 +39,10 @@ h1 {
     line-height: 0.9;
 }
 
-h1:hover {
+.moving-text:hover {
     text-shadow: 0 0px;
     transform: translateY(3px);
+    cursor: pointer;
 }
 
 h3 {
